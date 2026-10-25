@@ -1,0 +1,13 @@
+R_DEF: Internal format may change without notice
+local
+id commentButton
+id likeButton
+id messagesButton
+id navCreate
+id navExplore
+id navHome
+id navNotifications
+id navProfile
+id searchButton
+id shareButton
+layout activity_main

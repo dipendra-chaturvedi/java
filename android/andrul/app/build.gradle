@@ -1,0 +1,16 @@
+plugins {
+    id 'com.android.application' version '8.13.0'
+}
+
+android {
+    namespace 'com.andrul.app'
+    compileSdk 36
+
+    defaultConfig {
+        applicationId 'com.andrul.app'
+        minSdk 23
+        targetSdk 36
+        versionCode 1
+        versionName '1.0'
+    }
+}

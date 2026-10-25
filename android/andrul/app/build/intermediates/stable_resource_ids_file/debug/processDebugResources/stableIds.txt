@@ -1,0 +1,11 @@
+com.andrul.app:id/shareButton = 0x7f010009
+com.andrul.app:id/navProfile = 0x7f010007
+com.andrul.app:id/navCreate = 0x7f010003
+com.andrul.app:id/messagesButton = 0x7f010002
+com.andrul.app:id/searchButton = 0x7f010008
+com.andrul.app:id/navExplore = 0x7f010004
+com.andrul.app:layout/activity_main = 0x7f020000
+com.andrul.app:id/navNotifications = 0x7f010006
+com.andrul.app:id/navHome = 0x7f010005
+com.andrul.app:id/likeButton = 0x7f010001
+com.andrul.app:id/commentButton = 0x7f010000

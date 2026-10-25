@@ -1,0 +1,8 @@
+com.andrul.app-pngs-0 C:\Coding\java\android\andrul\app\build\generated\res\pngs\debug
+com.andrul.app-resValues-1 C:\Coding\java\android\andrul\app\build\generated\res\resValues\debug
+com.andrul.app-updated_navigation_xml-2 C:\Coding\java\android\andrul\app\build\generated\updated_navigation_xml\debug
+com.andrul.app-packageDebugResources-3 C:\Coding\java\android\andrul\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.andrul.app-packageDebugResources-4 C:\Coding\java\android\andrul\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.andrul.app-debug-5 C:\Coding\java\android\andrul\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.andrul.app-debug-6 C:\Coding\java\android\andrul\app\src\debug\res
+com.andrul.app-main-7 C:\Coding\java\android\andrul\app\src\main\res

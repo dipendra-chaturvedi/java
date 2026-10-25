@@ -1,0 +1,42 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.andrul.app"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="23"
+9        android:targetSdkVersion="36" />
+10
+11    <application
+11-->C:\Coding\java\android\andrul\app\src\main\AndroidManifest.xml:4:5-21:19
+12        android:allowBackup="false"
+12-->C:\Coding\java\android\andrul\app\src\main\AndroidManifest.xml:7:9-36
+13        android:debuggable="true"
+14        android:extractNativeLibs="false"
+15        android:label="Andrul"
+15-->C:\Coding\java\android\andrul\app\src\main\AndroidManifest.xml:6:9-31
+16        android:supportsRtl="true"
+16-->C:\Coding\java\android\andrul\app\src\main\AndroidManifest.xml:8:9-35
+17        android:theme="@android:style/Theme.Material.Light.NoActionBar" >
+17-->C:\Coding\java\android\andrul\app\src\main\AndroidManifest.xml:5:9-72
+18        <activity
+18-->C:\Coding\java\android\andrul\app\src\main\AndroidManifest.xml:10:9-19:20
+19            android:name="com.andrul.app.MainActivity"
+19-->C:\Coding\java\android\andrul\app\src\main\AndroidManifest.xml:11:13-41
+20            android:exported="true" >
+20-->C:\Coding\java\android\andrul\app\src\main\AndroidManifest.xml:12:13-36
+21            <intent-filter>
+21-->C:\Coding\java\android\andrul\app\src\main\AndroidManifest.xml:14:13-17:29
+22                <action android:name="android.intent.action.MAIN" />
+22-->C:\Coding\java\android\andrul\app\src\main\AndroidManifest.xml:15:17-69
+22-->C:\Coding\java\android\andrul\app\src\main\AndroidManifest.xml:15:25-66
+23
+24                <category android:name="android.intent.category.LAUNCHER" />
+24-->C:\Coding\java\android\andrul\app\src\main\AndroidManifest.xml:16:17-77
+24-->C:\Coding\java\android\andrul\app\src\main\AndroidManifest.xml:16:27-74
+25            </intent-filter>
+26        </activity>
+27    </application>
+28
+29</manifest>
