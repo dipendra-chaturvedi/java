@@ -1,4 +1,3 @@
-
 package com.andrul.app;
 
 import android.app.Activity;
